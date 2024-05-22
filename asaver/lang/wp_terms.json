@@ -1,0 +1,140 @@
+[
+  {
+    "term_id": "9",
+    "name": "English",
+    "slug": "en",
+    "term_group": "0"
+  },
+  {
+    "term_id": "10",
+    "name": "English",
+    "slug": "pll_en",
+    "term_group": "0"
+  },
+  {
+    "term_id": "11",
+    "name": "pll_6111603811332",
+    "slug": "pll_6111603811332",
+    "term_group": "0"
+  },
+  {
+    "term_id": "12",
+    "name": "pll_611160381134f",
+    "slug": "pll_611160381134f",
+    "term_group": "0"
+  },
+  {
+    "term_id": "13",
+    "name": "pll_6111603811361",
+    "slug": "pll_6111603811361",
+    "term_group": "0"
+  },
+  {
+    "term_id": "14",
+    "name": "pll_6111603811371",
+    "slug": "pll_6111603811371",
+    "term_group": "0"
+  },
+  {
+    "term_id": "15",
+    "name": "pll_6111603811381",
+    "slug": "pll_6111603811381",
+    "term_group": "0"
+  },
+  {
+    "term_id": "16",
+    "name": "pll_6111603811391",
+    "slug": "pll_6111603811391",
+    "term_group": "0"
+  },
+  {
+    "term_id": "17",
+    "name": "Deutsch",
+    "slug": "de",
+    "term_group": "0"
+  },
+  {
+    "term_id": "18",
+    "name": "Deutsch",
+    "slug": "pll_de",
+    "term_group": "0"
+  },
+  {
+    "term_id": "22",
+    "name": "pll_611160d5ca797",
+    "slug": "pll_611160d5ca797",
+    "term_group": "0"
+  },
+  {
+    "term_id": "23",
+    "name": "pll_6111621a62590",
+    "slug": "pll_6111621a62590",
+    "term_group": "0"
+  },
+  {
+    "term_id": "24",
+    "name": "Español",
+    "slug": "es",
+    "term_group": "0"
+  },
+  {
+    "term_id": "25",
+    "name": "Español",
+    "slug": "pll_es",
+    "term_group": "0"
+  },
+  {
+    "term_id": "29",
+    "name": "العربية",
+    "slug": "ar",
+    "term_group": "0"
+  },
+  {
+    "term_id": "30",
+    "name": "العربية",
+    "slug": "pll_ar",
+    "term_group": "0"
+  },
+  {
+    "term_id": "34",
+    "name": "Türkçe",
+    "slug": "tr",
+    "term_group": "0"
+  },
+  {
+    "term_id": "35",
+    "name": "Türkçe",
+    "slug": "pll_tr",
+    "term_group": "0"
+  },
+  {
+    "term_id": "39",
+    "name": "Italiano",
+    "slug": "it",
+    "term_group": "0"
+  },
+  {
+    "term_id": "40",
+    "name": "Italiano",
+    "slug": "pll_it",
+    "term_group": "0"
+  },
+  {
+    "term_id": "44",
+    "name": "Русский",
+    "slug": "ru",
+    "term_group": "0"
+  },
+  {
+    "term_id": "45",
+    "name": "Русский",
+    "slug": "pll_ru",
+    "term_group": "0"
+  },
+  {
+    "term_id": "49",
+    "name": "pll_6113d6b6d0ca7",
+    "slug": "pll_6113d6b6d0ca7",
+    "term_group": "0"
+  }
+]

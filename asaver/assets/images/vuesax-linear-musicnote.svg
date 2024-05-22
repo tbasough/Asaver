@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_linear_musicnote" data-name="vuesax/linear/musicnote" transform="translate(-684 -318)">
+    <g id="musicnote">
+      <path id="Vector" d="M8,4A4,4,0,1,1,4,0,4,4,0,0,1,8,4Z" transform="translate(687.97 332)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M0,14V0" transform="translate(695.97 322)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M2.63.138l4.42,1.47A3.052,3.052,0,0,1,9,4.308v1.17a1.881,1.881,0,0,1-2.63,1.9L1.95,5.908A3.052,3.052,0,0,1,0,3.208V2.028A1.873,1.873,0,0,1,2.63.138Z" transform="translate(695.98 319.972)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(684 318)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>
